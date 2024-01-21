@@ -1,0 +1,9 @@
+[submodule "attiny-usb_pcb"]
+	path = attiny-usb_pcb
+	url = git@github.com:arrowtip/attiny-usb_pcb.git
+[submodule "vim-mode-leds.nvim"]
+	path = vim-mode-leds.nvim
+	url = git@github.com:arrowtip/vim-mode-leds.nvim.git
+[submodule "vim-mode-leds_embedded"]
+	path = vim-mode-leds_embedded
+	url = git@github.com:arrowtip/vim-mode-leds_embedded.git
